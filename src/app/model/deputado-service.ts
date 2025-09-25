@@ -18,4 +18,12 @@ export class DeputadoService {
       return this.http.get(
         `${this.APIURL}/deputados?ordem=ASC&ordenarPor=nome`)
   }
+
+  obterDeputadoPorNome(nome: string) {
+    
+  }
+
+  obterDespesasDeputado(idDep: number) {
+
+  }
 }
