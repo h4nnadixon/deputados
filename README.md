@@ -57,3 +57,19 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+## Alteraçoes da Hanna
+
+### Realizando busca de deputado por id
+
+![Fazendo uma consulta de deputado e os dados aparecendo](./imagens_atv/consulta_funcionando.png)
+
+### Validação de ID obrigatório
+
+![Validação de ID obrigatório funcionando](./imagens_atv/validacao_funcionando_2.png)
+
+### Validação de numéro positivo
+
+![Validação de aceitar apenas números positivos](./imagens_atv/validacao_funcionando.png)
